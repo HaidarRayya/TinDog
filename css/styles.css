@@ -147,6 +147,9 @@ p{
 }
 
 @media (max-width:1028px) {
+    .pricing-column{
+        margin: 0 auto;
+    }
   #title{
 
         text-align: center;
